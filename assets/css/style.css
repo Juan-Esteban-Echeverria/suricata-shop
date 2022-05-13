@@ -1,0 +1,33 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.loguito {
+  width: 132px;
+  height: 53px;
+}
+
+.loguito2 {
+  width: 53px;
+  height: 100px;
+}
+
+.titulito1 {
+  color: #707070;
+}
+
+.celeste {
+  background-color: #17a2b8;
+}
+
+.rosadito {
+  background-color: #e83e8c;
+}
+
+.rosadote {
+  background-color: #e83e8c;
+}
+
+.card-link {
+  text-decoration: none;
+}
